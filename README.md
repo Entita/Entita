@@ -2,7 +2,9 @@
 #### Full stack developer
 
 Skills: 
-* VUE JS / REACT / JS / HTML / CSS / SASS / STYLED COMPONENTS / NODE JS / SOCKET IO / EXPRESS
+* VUE JS / REACT / JS / HTML 
+* CSS / SASS / STYLED COMPONENTS / 
+* NODE JS / SOCKET IO / EXPRESS
 
 
 
