@@ -1,4 +1,4 @@
-### Hi there 👋, Jakub Hampl
+### Greetings, I'm Jacob Hampl
 #### Full stack developer
 
 Skills: 
