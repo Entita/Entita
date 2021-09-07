@@ -1,2 +1,2 @@
 ### Hi there 👋
-https://github-readme-stats.vercel.app/api?username=Entita
+![Github stats](https://github-readme-stats.vercel.app/api?username=Entita)
